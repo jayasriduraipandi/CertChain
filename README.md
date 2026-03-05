@@ -1,5 +1,5 @@
 # CertChain
-Blockchain-Based Academic Certificate Verification System
+Blockchain-Based Academic Certificate Verification System 
 # CertChain — Blockchain-Based Academic Certificate Verification
 
 A decentralized platform to issue tamper-proof digital certificates, verify credentials instantly via QR code, and manage revocations with immutable audit trails.
