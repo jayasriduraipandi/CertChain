@@ -128,9 +128,6 @@ CertChain/
 
 ## Team
 
-- **Danisha K** — 22MSS007
-- **Jayasri D** — 22MSS015
-- **Poojasri P** — 22MSS029
 
 ## License
 
