@@ -100,7 +100,7 @@ Revocation requires **2 of 3** authorized admin signatures:
 4. All nodes update within 5 seconds
 
 ## Project Structure
-```
+``
 CertChain/
 ├── CertChain-Prototype.html          # Full interactive prototype
 ├── CertChain-Detailed-20-Slides.pptx # 20-slide presentation
