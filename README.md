@@ -127,7 +127,8 @@ CertChain/
 | Audit History | Permanent & immutable |
 
 ## Team
-
+@Pooja Sri S
+@Danisha k
 ## License
 
 This project is developed as part of a hackathon solution proposal.
